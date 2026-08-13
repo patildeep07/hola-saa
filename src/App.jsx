@@ -197,7 +197,7 @@ function App() {
                 className="okay-button"
                 onClick={() => setShowPopup(false)}
               >
-                Yeah, thats all
+                I'm sorryy, lol ;)
               </button>
             </motion.div>
           </motion.div>

@@ -186,7 +186,7 @@ function App() {
               </motion.div>
 
               <h2>
-                Hello <span>cutieeeee</span>
+                Hello <span>kyutaaayyyy</span>
               </h2>
 
               <p className="question">jevlisss kaaaaa!?</p>
